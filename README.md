@@ -7,6 +7,7 @@ Project Summary
 Tools Used
 
 * Python: I used Python as the main programming language for data handling, loading, and cleaning the dataset, which allowed me to process data quickly and efficiently.
+* NumPy: This tool was essential for managing large datasets. With NumPy, I could easily handle numerical data, perform fast calculations, and compute necessary statistics for various customer groups.
 * Seaborn: Seaborn was used for data visualization, allowing me to create graphs that revealed purchasing patterns, popular regions, and top product categories. Visualizations made the analysis more accessible and highlighted key insights clearly.
   
 Key Findings
@@ -19,3 +20,7 @@ Project Outcome
 
 Audience Targeting: Based on the findings, businesses could target married women aged 26-35 from these regions and industries with specific marketing campaigns.
 Product Focus: With Food, Clothing, and Electronics showing the highest popularity, businesses could prioritize these categories in future sales efforts.
+
+Impact
+
+"This project helped me understand how to use data to generate practical insights that businesses can use to optimize marketing strategies and product offerings, enhancing customer engagement and boosting sales."
