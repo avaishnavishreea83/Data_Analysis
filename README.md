@@ -13,7 +13,9 @@ Tools Used
 Key Findings
 
 Demographics: Most buyers were females aged 26-35, especially from Uttar Pradesh, Maharashtra, and Karnataka, who also had a higher purchasing power than men.
+
 Top Customers: Married women working in IT, Healthcare, and Aviation sectors had the highest spending, particularly in Food, Clothing, and Electronics categories.
+
 Regional Sales: The states with the highest sales were Uttar Pradesh, Maharashtra, and Karnataka, showing a strong concentration of customers in these areas.
 
 Project Outcome
